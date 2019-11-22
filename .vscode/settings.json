@@ -1,0 +1,46 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "css.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "stylelint.autoFixOnSave": true,
+  "[css]": {
+    "editor.formatOnSave": false
+  },
+  "[scss]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.enable": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autoFix": true
+    },
+    {
+      "language": "typescript",
+      "autoFix": true
+    },
+    {
+      "language": "typescriptreact",
+      "autoFix": true
+    }
+  ]
+}
