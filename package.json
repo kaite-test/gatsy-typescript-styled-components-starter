@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsy-typescript-styled-components-starter",
   "private": true,
-  "description": "This is a starter set",
+  "description": "This is a starter kit for TypeScript-based Gatsby with ESLint, Prettier, styled-components, stylelint",
   "version": "0.1.0",
-  "author": "yuhta",
+  "author": "yuhta-jp",
   "dependencies": {
     "@types/react-helmet": "^5.0.14",
     "babel-plugin-styled-components": "^1.10.6",
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^4.4.0",
+    "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.19.1",
@@ -37,7 +38,8 @@
     "typescript": "^3.7.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "TypeScript"
   ],
   "license": "MIT",
   "scripts": {

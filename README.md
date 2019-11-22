@@ -1,3 +1,13 @@
+# gatsy-typescript-styled-components-starter
+
+## Features
+
+- TypeScript
+- ESLint(with airbnb's rules)
+- Prettier
+- stylelint
+- Styling with styled-components
+
 ## Quick start
 
 **1. Create a Gatsby site.**
